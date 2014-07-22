@@ -1,0 +1,42 @@
+#image {
+   position: relative; 
+   width: 100%;
+}
+
+#h2{
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+ }  
+
+#sidebar {
+    width: 250px;
+    height: 500px;
+    background-color: purple;
+    float: left;
+}
+
+#header {
+    width: 50px;
+    background-color: red;
+    margin-left: 699px;
+}
+
+
+#content {
+    width: 50px;
+    height: 20px;
+    background-color: blue;
+    margin-left: 500px;
+}
+
+#footer {
+    width: 90px;
+    height: 20px;
+    background-color: orange;
+    margin-left: 500px;footer{text-align: center;
+	   text-transform: capitalize;
+}
+
+
