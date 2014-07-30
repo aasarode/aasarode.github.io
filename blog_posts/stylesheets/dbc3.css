@@ -1,11 +1,14 @@
-h2 {color: #FF0000
+h3 {border-style: dotted;
+	box-shadow: 90px;
+	border-width: 40px;
 }
 
-p {font-style: Times;
-	font-size: 16;
-    background-color: #b0c4de;
+h1{border-style: double ridge;
+   border-width: 90px; 	
 }
-
+img{border-style: solid;
+	  border-width: 15px;
+}
 
 
 

@@ -1,0 +1,30 @@
+html{border: double;font-style: 33px; color: navy blue;}
+body{background-color: gray
+}
+.image { background-color: navy blue;
+   position: relative; 
+   width: 50%; /* for IE 6 */
+}
+
+h1{position: absolute;
+	background-color: #A0B0E0
+	
+}
+iframe { 
+   position: absolute; 
+   top: 150px; 
+   left: 120px; 
+   width: 75%; 
+}
+.image1{position: relative;
+		top: 100px;
+		width: 15%;
+		left:420px;
+		border-style: double;
+		border-color: black;}
+ul{position: relative;
+	float: right;
+font-family: fantasy;
+color:#9A1876; 
+font-size: 34px;
+background-color: #A0B0E0 }
