@@ -19,7 +19,7 @@ iframe { position: relative;
    left: 7.5em; 
    width: 75%; 
 }
-.sidebar{position: relative;
+sidebar{position: relative;
 		 float:right;
 		 left:12.5em;
 		 top: 6.25em}
@@ -29,9 +29,12 @@ iframe { position: relative;
 		margin-left:50%;
 		border-style: double;
 		border-color: black;}
-#self_pic{width:100%;}
+.footer{position:relative;
+}
+#self_pic{width:20%;
+		  height: 20%;}
 
-ul{position: absolute right;
+ul{position: relative right;
 	float: right;
 font-family: fantasy;
 color:#9A1876; 
