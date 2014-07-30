@@ -14,8 +14,7 @@ h1{position: absolute;
 	background-color: #A0B0E0
 	
 }
-iframe { 
-   position: relative; 
+iframe { position: relative; 
    top: 9.375em; 
    left: 7.5em; 
    width: 75%; 
@@ -27,9 +26,11 @@ iframe {
 .image1{position: relative;
 		top: 300px;
 		width: 15%;
-		left:420px;
+		margin-left:50%;
 		border-style: double;
 		border-color: black;}
+#self_pic{width:100%;}
+
 ul{position: absolute right;
 	float: right;
 font-family: fantasy;
