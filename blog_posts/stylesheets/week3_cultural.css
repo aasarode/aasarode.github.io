@@ -1,0 +1,37 @@
+html{background-image: url(http://hd.wallpaperswide.com/thumbs/green_grass_macro_2-t2.jpg);
+	 margin: auto; 
+	 border: double solid;
+	 border-width: 40px;
+	 height: 100%;
+	 }
+
+h1{border-style: ridge;
+   padding: 15px;	
+   border-width:10px; 
+   background-image: url(http://upload.wikimedia.org/wikipedia/commons/4/4e/Clouds_in_vellore.JPG);
+   float: center}
+h2{background-color: white;
+	float: center;
+   position: relative;}
+
+body{background-image: url(http://hd.wallpaperswide.com/thumbs/green_grass_macro_2-t2.jpg);
+	 margin: 30px;
+	 background-repeat: no-repeat;
+	 background-attachment: fixed;
+	 
+	
+}
+p{position:absolute;
+	float: center;
+	background-color: white;}
+
+
+#medium_content_box{ position: relative;
+					position: bottom;
+					border: solid;
+					border-top: solid;
+					border-style: 50px;font-variant: verdana;
+				}
+
+
+
