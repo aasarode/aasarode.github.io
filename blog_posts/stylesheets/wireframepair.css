@@ -1,0 +1,16 @@
+head{display: block;}
+#headlinks{text-align: center;
+           padding-left: 333px;}
+
+#sidelinks{float: left;
+	      width:15%;
+          height:600px;}
+#sidelinks2{
+	float:left;
+	height: 600px;
+            }
+#paragraph{float:right;
+  width: 70%;
+  height:500px;}
+
+.footer{text-align: center;}
