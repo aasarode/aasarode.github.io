@@ -4,15 +4,10 @@ body{background-image: url(http://i.imgur.com/F02jNIs.jpg);
 	 margin: auto;
 	 background-repeat: no-repeat;
 	 background-attachment: fixed;}
-h1{background-color: transparent;
-   font-size:85px;
-   font-variant: bold}
 h2{border-top: solid;
 	border-bottom: ridge;
 	border-color: black;
 	background-color: white} 
-h3{text-align: center;
-   font-style: italic}
 #small_content_box {color: black;
 background-color: transparent;
 font-size: 2.25em;
@@ -30,16 +25,16 @@ color: black;
 background-color: #9ACD32;
 font-size: 1.15em;
 font-family: fantasy;
-height: 800px;
+height: 1500px;
 width: 43%;
 border: 2px solid black;
 margin: auto;
 float: right;
 }
 #container{position: absolute;
-		font-size:28px;
-		width: 100%;
-		color: black;
+		right:700px;
+		width: 100%
+		color: blue;
+
 		background-color:#9ACD32;
-		border: 2px solid black;
 }

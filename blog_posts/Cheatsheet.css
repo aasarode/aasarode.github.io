@@ -1,0 +1,23 @@
+html{background-color: gray;
+	 margin-right: 5%;
+	 margin-top: 5%;
+	 margin-left: 5%;
+     
+}
+
+#pictureheading {text-align: center;
+				 width: 100%;
+}
+
+#Heading{border: solid white;
+		  text-align: center;
+		  margin right: 20px;
+		  text-transform: 40px; 
+		  font-variant: verdana;
+		  background-color: pink;
+}
+
+#Definitions{border: solid white;
+			 margin: 40px, 20px 20px, 20px;
+			 background-color: pink;
+}
